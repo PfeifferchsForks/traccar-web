@@ -10,7 +10,7 @@
     "@fontsource/roboto": "^5.0.12",
     "@mapbox/mapbox-gl-draw": "^1.4.3",
     "@maplibre/maplibre-gl-geocoder": "^1.5.0",
-    "@mui/icons-material": "^5.15.15",
+    "@mui/icons-material": "^5.15.21",
     "@mui/lab": "^5.0.0-alpha.170",
     "@mui/material": "^5.15.15",
     "@mui/styles": "^5.15.15",
