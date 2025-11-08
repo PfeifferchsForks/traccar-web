@@ -2,7 +2,7 @@
     "name": "traccar-web",
     "dependencies": {
         "extjs-gpl": "^6.2.0",
-        "ol": "^6.12.0",
+        "ol": "^6.15.1",
         "ol-layerswitcher": "^3.8.3",
         "openlayers-dist": "^6.12.0",
         "proj4": "^2.7.5"
